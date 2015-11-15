@@ -1,6 +1,6 @@
 WordPress Base Theme
 =============
-![Taller de Código](http://tallerdecodigo.com/wp-content/themes/tallerdecodigo//images/tdc.png)
+![Taller de Código](http://tallerdecodigo.com/wp-content/themes/tallerdecodigo/screenshot.png)
 
 Usar para iniciar un nuevo tema de WordPress
 
