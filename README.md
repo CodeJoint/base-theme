@@ -7,7 +7,7 @@ Usar para iniciar un nuevo tema de WordPress
 ### Credits
 
 Link: http://www.tallerdecodigo.com/<br />
-Contributors: Pablo Covarrubias<br />
+Contributors: Pablo Covarrubias, John Falcon<br />
 Tags: wordpress, themes<br />
 Tested up to: 3.8<br />
 Stable tag: 1.0<br />
