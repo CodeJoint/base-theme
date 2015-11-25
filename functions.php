@@ -87,7 +87,7 @@
 
 
 	add_filter( 'admin_footer_text', function() {
-		echo 'Creado por <a href="http://hacemoscodigo.com">Los Maquiladores</a>. ';
+		echo 'Creado por <a href="http://tallerdecodigo.com">TDC</a>. ';
 		echo 'Powered by <a href="http://www.wordpress.org">WordPress</a>';
 	});
 
